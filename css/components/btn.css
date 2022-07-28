@@ -1,0 +1,13 @@
+.btn-banner {
+  background-color: darkred;
+  color: darkblue;
+  padding: 15px 25px;
+  font-weight: bolder;
+  transition: 0.7s;
+  border-radius: 10px;
+}
+
+.btn-banner:hover {
+  background-color: darkblue;
+  color: darkred;
+}
